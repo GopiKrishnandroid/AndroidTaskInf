@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Grid</string>
+    <string-array name="rules_array">
+        <item>Odd</item>
+        <item>Even</item>
+        <item>Prime</item>
+        <item>Fibonacci</item>
+    </string-array>
+</resources>
